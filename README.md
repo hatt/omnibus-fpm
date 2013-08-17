@@ -1,7 +1,7 @@
 # fpm Omnibus project
 
 This project creates full-stack platform-specific packages for
-`fpm`!
+[fpm](https://github.com/jordansissel/fpm)!
 
 ## Installation
 
